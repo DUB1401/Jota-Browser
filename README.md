@@ -23,5 +23,7 @@
 Версия обратившегося модуля     | v1.0.2
 URL или Path-адрес для перехода | http://www.test.com/
 ```
+## Скриншот
+![image](https://user-images.githubusercontent.com/40277356/218577986-60c19e27-cd91-4f46-8cdf-be218a3f0a7f.png)
 
 _Evolv Group. Copyright © 2018-2023._
