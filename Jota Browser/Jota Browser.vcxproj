@@ -135,6 +135,11 @@
   <ItemGroup>
     <Image Include="..\Resources\icon.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Jota Browser.resx">
+      <DependentUpon>Jota Browser.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
