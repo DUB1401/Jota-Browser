@@ -24,6 +24,6 @@
 URL или Path-адрес для перехода | http://www.test.com/
 ```
 ## Скриншот
-![image](https://user-images.githubusercontent.com/40277356/218577986-60c19e27-cd91-4f46-8cdf-be218a3f0a7f.png)
+![image](https://user-images.githubusercontent.com/40277356/224821225-cb5b139f-7c2d-4c43-b15f-3be6adc0f806.jpg)
 
 _Evolv Group. Copyright © 2018-2023._
